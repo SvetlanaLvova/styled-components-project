@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<h1> Технический стек: </h1>
+<h2> Технический стек: </h2>
 
 **Client:** React, Styled Components
   
